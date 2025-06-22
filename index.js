@@ -67,7 +67,7 @@ function handleEvent(event) {
       } else {
         resolve(client.replyMessage(event.replyToken, {
           type: 'text',
-          text: '請輸入「存款 數字」、「品項 金額元」，或「查餘額」、「明細」'
+          text: '請輸入「存款 數字」、「品項 金額」，或「查餘額」、「明細」'
         }));
       }
     });
