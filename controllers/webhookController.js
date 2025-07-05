@@ -85,7 +85,7 @@ function generateBalanceFlex(amount) {
         },
         {
           type: "text",
-          text: "我愛葉竹芸！",
+          text: "",
           size: "xs",
           color: "#aaaaaa",
           align: "center",
