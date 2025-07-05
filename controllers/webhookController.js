@@ -85,7 +85,7 @@ function generateBalanceFlex(amount) {
         },
         {
           type: "text",
-          text: "",
+          text: "I love yun",
           size: "xs",
           color: "#aaaaaa",
           align: "center",
